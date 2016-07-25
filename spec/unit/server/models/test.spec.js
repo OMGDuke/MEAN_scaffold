@@ -1,4 +1,4 @@
-var app = require('../../../server.js'),
+var app = require('../../../../server.js'),
     should = require('should'),
     mongoose = require('mongoose'),
     Sample = mongoose.model('Sample');
