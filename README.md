@@ -10,4 +10,4 @@ I'm assuming you have Node.js and MongoDB installed, with Mongo running in the b
 - `npm install`
 - `bower install`
 - To run the app - `grunt`
-- To run tests - `grunt test` (this will run mocha, karma and protractor tests)
+- To run tests - in one terminal window `webdriver-manager start`, in another `grunt test` (this will run mocha, karma and protractor tests)
