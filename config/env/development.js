@@ -1,3 +1,3 @@
 module.exports = {
-	db: 'mongodb://localhost/codetutors_dev'
-}
+	db: 'mongodb://localhost/mean_scaffold_dev'
+};

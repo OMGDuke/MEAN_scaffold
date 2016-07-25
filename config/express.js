@@ -17,4 +17,4 @@ module.exports = function() {
 	require('../app/routes/index.server.routes.js') (app);
 
 	return app;
-}
+};
