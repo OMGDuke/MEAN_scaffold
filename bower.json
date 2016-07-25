@@ -1,5 +1,5 @@
 {
-  "name": "codetutors",
+  "name": "MEAN_scaffold",
   "description": "",
   "main": "server.js",
   "authors": [
@@ -11,8 +11,7 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "test",
-    "tests"
+    "spec"
   ],
   "dependencies": {
     "angular": "^1.5.7"
