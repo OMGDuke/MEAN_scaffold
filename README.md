@@ -17,5 +17,5 @@ This is the scaffolding for a lightweight MEAN app, with testing frameworks and 
 ## Tests
 
 - Check if you have webdriver-manager, if not run `npm install -g webdriver-manager` followed by `webdriver-manager update`.
-- Run `webdriver-manager start`
-- To run tests - `grunt test` (this will run mocha, karma and protractor tests)
+- Run `webdriver-manager start` in one window
+- In another window, Run `grunt test` (this will run mocha, karma and protractor tests)
